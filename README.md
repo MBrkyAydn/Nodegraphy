@@ -20,7 +20,7 @@ Dynamically centers the active Java class from your editor:
 * **Outbound Dependencies ("What do I call?"):** Places injected dependencies, repositories, and models on the **RIGHT**.
 * **Multi-Column Distribution:** Automatically wraps large dependency sets into balanced columns to prevent vertical clutter.
 
-![1-Hop Focus Demo](assets/demo-focus.gif)
+![1-Hop Focus Demo](assets/demo-
 
 ---
 
