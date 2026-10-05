@@ -13,8 +13,9 @@
 
 <!-- HERO GIF: Projenin açılışını ve tuvalin yüklenişini gösteren GIF -->
 <p align="center">
-  <img src="assets/demo-hero-launch.gif" alt="Nodegraphy Launch Preview" width="95%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
+  <img width="1874" height="955" alt="assetsdemo-hero-launch" src="https://github.com/user-attachments/assets/02870dab-0b1e-4ec9-af79-31e450515de2" />
 </p>
+
 
 </div>
 
@@ -38,8 +39,9 @@ Powered by IntelliJ's internal **AST / PSI** engine and hardware-accelerated **J
 * **HTTP Endpoint Badges:** Live tags (`[GET]`, `[POST]`, `[PUT]`, `[DELETE]`) and request paths mapped directly onto controller sockets.
 
 <div align="center">
-  <!-- 2. GIF: Sol tarafta kod yazılırken sağda anlık güncellenen Nodegraphy canlı akışı -->
-  <img src="assets/demo-live-coding.gif" alt="Live Code Sync Demo" width="95%" style="border-radius: 8px; border: 1px solid #2d3748;" />
+
+<img width="1872" height="955" alt="assetsdemo-live-coding" src="https://github.com/user-attachments/assets/32079fc8-6806-4290-a50b-52e2f7dc7639" />
+
 </div>
 
 ---
@@ -52,8 +54,8 @@ Powered by IntelliJ's internal **AST / PSI** engine and hardware-accelerated **J
 * **Color Themes & Layer Legends:** Effortlessly toggle visibility for Entities/DTOs and customize accent palettes via the built-in color engine.
 
 <div align="center">
-  <!-- 3. GIF: Task, TaskService odaklanması, soket bağlantıları ve renk/tema ayarları -->
-  <img src="assets/demo-focus-theming.gif" alt="Focus Mode & Theming Demo" width="95%" style="border-radius: 8px; border: 1px solid #2d3748;" />
+<img width="1917" height="1028" alt="assetsdemo-focus-theming" src="https://github.com/user-attachments/assets/898dc054-bdd4-42b4-8bdb-74d88e1e8eba" />
+
 </div>
 
 ---
