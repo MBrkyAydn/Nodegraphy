@@ -1,3 +1,5 @@
+<img width="1872" height="955" alt="NodeGraphy (2)" src="https://github.com/user-attachments/assets/48a7f377-fd84-4f70-9ce4-08a82d9498ff" />
+<img width="1917" height="1028" alt="NodeGraphy (1)" src="https://github.com/user-attachments/assets/c03492cc-fd91-4ffc-943f-f6f8f7745de7" />
 [# ⚡ Nodegraphy
 
 > **Real-time Interactive 2D Architecture Graph Visualizer for IntelliJ IDEA**
