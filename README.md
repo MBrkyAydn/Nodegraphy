@@ -81,13 +81,13 @@ Nodegraphy recognizes standard Spring Boot roles out-of-the-box:
 - 🏢 **Corporate Compliant:** Safe for classified, proprietary, and strictly governed enterprise codebases.
 
 ---
-
 ## 🚀 Availability
 
-Nodegraphy is currently undergoing final quality assurance in preparation for submission to the **JetBrains Marketplace**.
+Nodegraphy is now officially available on the **JetBrains Marketplace**!
 
-* 🔔 **Stay Tuned:** Public distribution will be available through the IntelliJ IDEA Marketplace.
-* ⭐ **Support the Project:** Star this repository to get notified the moment v1.0 goes live!
+* 📦 **Installation:** Open IntelliJ IDEA, navigate to **Settings / Preferences -> Plugins -> Marketplace**, and search for **Nodegraphy**.
+* 🔗 **Marketplace Page:** You can also view or install it directly via the [JetBrains Marketplace]https://plugins.jetbrains.com/plugin/34801-nodegraphy.
+* ⭐ **Support the Project:** If you find it helpful, please consider starring this repository and leaving a review on the Marketplace!
 
 ---
 
