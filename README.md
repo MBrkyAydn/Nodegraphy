@@ -5,7 +5,7 @@
 
 **Turn complex Spring Boot architectures into living, interactive node graphs directly inside your IDE.**
 
-[![Status](https://img.shields.io/badge/Status-Coming%20Soon-F59E0B?style=for-the-badge&logo=rocket)](#-availability)
+[![Status](https://img.shields.io/badge/Status-AVAILABLE-F59E0B?style=for-the-badge&logo=rocket)](#-availability)
 [![IDE Compatibility](https://img.shields.io/badge/IntelliJ%20IDEA-2024.2+-0891B2?style=for-the-badge&logo=intellijidea)](#-features)
 [![Security](https://img.shields.io/badge/Security-Air--Gapped%20%2F%20100%25%20Offline-10B981?style=for-the-badge&logo=shield)](#-security--privacy)
 
